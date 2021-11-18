@@ -1,4 +1,3 @@
-
 <body>
 
  <div class="container">
@@ -43,11 +42,7 @@
 <html>
 
 <head>
-  
-  <script async custom-element="amp-auto-ads"
-        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
-</script>
-  
+
   <meta charset="utf-8"></title>
   <meta content="width=device-width, initial-scale=1" name="viewport"></meta>
   <link href="bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"></link>
